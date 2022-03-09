@@ -1,0 +1,5 @@
+#. prettierignore
+
+dist
+COPYING.md
+LICENSE.md
