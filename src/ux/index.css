@@ -9,7 +9,7 @@
   .h4 {
     font-size: 1.75rem;
     font-weight: bold;
-    @apply text-slate-400;
+    @apply text-slate-600;
   }
 
   .h2 {
